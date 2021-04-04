@@ -29,9 +29,12 @@ li a:hover{
     color: black;
 }
 body{
-    margin-top: 50px;
+    margin-top: 70px;
     line-height: 2;
-    background-color: skyblue;
+    background-color: teal;
+    color: white;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
 }
 .presidential{
     padding-right: 20px;
@@ -42,7 +45,9 @@ body{
     margin-right: 2px;
 }
 h3{
-    color: blueviolet;
+    color: white;
+    text-shadow: 2px 1px grey;
+
 }
 .oceanview{
     padding-right: 20px;

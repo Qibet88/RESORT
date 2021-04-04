@@ -2,6 +2,8 @@ body{
     background-image: url("./images/resort1.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    color: whitesmoke;
+
 }
 ul{
     
@@ -43,11 +45,11 @@ li a:hover.active{
     margin-top: 50px;
     overflow: hidden;
     padding: 20px;
-    background-color: burlywood;
+    background-color: teal;
 
     
 }
 h3{
-    color: cornflowerblue;
+    color: snow;
     text-transform: uppercase;
 }
