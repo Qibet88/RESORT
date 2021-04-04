@@ -1,0 +1,30 @@
+ul{
+    
+    background-color: navy;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+    font-size: medium;
+    font-family: sans-serif;
+    font-weight: 700;
+    
+}
+li{
+    float: left;
+}
+li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a:hover{
+    background-color: aqua;
+    color: black;
+}
