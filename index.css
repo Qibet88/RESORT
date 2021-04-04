@@ -28,3 +28,27 @@ li a:hover{
     background-color: aqua;
     color: black;
 }
+body{
+    background-image: url("/images/resort4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+h1{
+    position: absolute;
+    font-size: 3em;
+    top: 200px;
+    left: 350px;
+    color: rgb(0, 255, 200);
+    text-shadow: 2px 2px 1px lightskyblue;
+    
+}
+footer{
+    padding: 3px;
+    text-align: center;
+    background-color: lightskyblue;
+    color: black;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}

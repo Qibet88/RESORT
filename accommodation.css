@@ -28,3 +28,17 @@ li a:hover{
     background-color: aqua;
     color: black;
 }
+body{
+    margin-top: 50px;
+    line-height: 2;
+}
+.presidential{
+    float: left;
+    clear: both;
+    width: 200px;
+    height: 200px;
+    margin-right: 2px;
+}
+h3{
+    color: blueviolet;
+}
