@@ -28,3 +28,23 @@ li a:hover{
     background-color: aqua;
     color: black;
 }
+body{
+    background-image: url("/images/bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    overflow: hidden;
+    padding: 20px;
+    background-color: teal;
+    color: white;
+}
+.pictorial img{
+    padding: 5px 20px 5px 20px;
+    width: 400px;
+    height: 300px;
+   
+}

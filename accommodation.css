@@ -31,14 +31,30 @@ li a:hover{
 body{
     margin-top: 50px;
     line-height: 2;
+    background-color: skyblue;
 }
 .presidential{
+    padding-right: 20px;
     float: left;
     clear: both;
-    width: 200px;
+    width: 400px;
     height: 200px;
     margin-right: 2px;
 }
 h3{
     color: blueviolet;
+}
+.oceanview{
+    padding-right: 20px;
+    width: 400px;
+    height: 200px;
+    float: left;
+    clear: right;
+}
+.luxury{
+    padding-right: 20px;
+    width: 400px;
+    height: 200px;
+    float: left;
+    clear: both;
 }
