@@ -1,0 +1,53 @@
+body{
+    background-image: url("./images/resort1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    
+    background-color: navy;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+    font-size: medium;
+    font-family: sans-serif;
+    font-weight: 700;
+   
+}
+li{
+    float: left;
+}
+li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+li a:hover{
+    background-color: aqua;
+    color: black;
+}
+li a:hover.active{
+    background-color: white;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    overflow: hidden;
+    padding: 20px;
+    background-color: burlywood;
+
+    
+}
+h3{
+    color: cornflowerblue;
+    text-transform: uppercase;
+}
